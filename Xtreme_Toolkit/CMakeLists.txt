@@ -1,0 +1,3 @@
+add_library(ToolkitPro INTERFACE)
+target_include_directories(ToolkitPro INTERFACE include)
+target_link_libraries(ToolkitPro INTERFACE lib)

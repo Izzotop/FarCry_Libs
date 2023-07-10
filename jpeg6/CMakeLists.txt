@@ -1,0 +1,34 @@
+add_library(libjpeg
+    jchuff.h
+    jcomapi.cpp
+    jconfig.h
+    jdapimin.cpp
+    jdapistd.cpp
+    jdatasrc.cpp
+    jdcoefct.cpp
+    jdcolor.cpp
+    jdct.h
+    jddctmgr.cpp
+    jdhuff.cpp
+    jdhuff.h
+    jdinput.cpp
+    jdmainct.cpp
+    jdmarker.cpp
+    jdmaster.cpp
+    jdpostct.cpp
+    jdsample.cpp
+    jdtrans.cpp
+    jerror.cpp
+    jerror.h
+    jfdctflt.cpp
+    jidctflt.cpp
+    jinclude.h
+    jmemmgr.cpp
+    jmemnobs.cpp
+    jmemsys.h
+    jmorecfg.h
+    jpegint.h
+    jpeglib.h
+    jutils.cpp
+    jversion.h
+)
